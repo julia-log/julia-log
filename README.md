@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/origin/f1/f1a737e4cfba336f974af05abab62c8f_w200.gif" alt="Menina negra dançando">
-
 ###
 
 <div align="left">
@@ -36,6 +34,6 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
