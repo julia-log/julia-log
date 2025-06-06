@@ -1,4 +1,4 @@
-<h2 align="left">Helô Word 👋! Meu nome é Julia e eu sou uma desenvolvedora em formação, de Salvador-BA</h2>
+<h2 align="left">Helô World 👋! Meu nome é Julia e eu sou estudante de Segurança da Informação na FATEC!</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/SUeXQ0b.png" alt="Ilustração de menina negra cacheada" />
+<img align="right" height="150" src="https://i.gifer.com/origin/f1/f1a737e4cfba336f974af05abab62c8f_w200.gif" alt="Menina negra dançando">
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:juliasgalvao18@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/julia-galv%C3%A3o-b9924527b" target="_blank">
