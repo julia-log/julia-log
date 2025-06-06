@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5oY3VvZ2V1b2NtY3RjZzB6eGZ4Y2V6dG5tYzN1Y2ZqZ3B6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" alt="Menina negra e cacheada animada" />
+<img align="right" height="150" src="https://i.imgur.com/SUeXQ0b.png" alt="Ilustração de menina negra cacheada" />
 
 ###
 
