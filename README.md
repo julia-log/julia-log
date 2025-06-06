@@ -34,6 +34,9 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/julia-log/pacman-graph/02e98cc9b6a82884036f9fa917c80a1f89bd3d31/pacman-contributions.svg" alt="Pac-Man Contribution Graph" />
+</div>
 
 
 
