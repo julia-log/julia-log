@@ -2,15 +2,13 @@
 
 <p align="left">
   I'm Júlia Galvão, a student of Information Security at Fatec. <br>
-  My journey in tech started with a simple <code>Hello World</code>, and since then, I've been learning and exploring web technologies like HTML, CSS, JavaScript, and Python. <br>
-  I'm passionate about technology, cybersecurity, and continuous learning.
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliasgalvao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliasgalvao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=julia-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julia-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
