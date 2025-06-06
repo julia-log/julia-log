@@ -33,13 +33,19 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-import { generatePacManGame } from 'pacman-contribution-graph';
+<script type="module">
+  import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
 
-generatePacManGame({
-	username: 'julia-log',
-	platform: 'github',
-	theme: 'github-dark',
-	speed: 2,
-	sound: true,
-	output: 'canvas'
-});
+  const pr = new PacmanRenderer({
+    platform: 'github',
+    username: 'julia-log',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',
+    gameTheme: 'github-dark'
+  });
+
+  pr.start();
+</script>
+
+
+
